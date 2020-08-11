@@ -1,2 +1,2 @@
 # HTML-course
-HML-course repository
+HTML-course repository
